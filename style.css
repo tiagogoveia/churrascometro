@@ -33,9 +33,11 @@ input{
     font-size: large;
     border-radius: 15px;
     border: none;
- 
+    color: #f8f8f8;
     
 }
+
+
 
 button{ 
     padding: 10px;
