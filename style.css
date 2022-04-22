@@ -22,6 +22,8 @@ h1{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 10px;
+
+
 }
 
 input{
@@ -36,7 +38,6 @@ input{
     background-color: #ffffffbb;
     outline:none;
  
-    
 }
 
 
