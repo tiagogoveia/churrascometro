@@ -19,9 +19,10 @@ function calcular(){
      
     console.log("calculando...");
 
-    let Adultos = inputAdultos.ariaValueMax;
-    let Criancas = inputCriancas.ariaValueMax;
+    let adultos = inputAdultos.value;
+    let criancas = inputCriancas.Value;
 
-    let qdtTotalCarne = 
+    let qdtTotalCarne = 400 * adultos + (400 /2 * criancas);
+    console.log(qdtTotalCarne);
 
 }
