@@ -37,6 +37,7 @@ input{
     border: none;
     background-color: #ffffffbb;
     outline:none;
+    
  
 }
 
@@ -52,7 +53,7 @@ button{
     border-radius: 10px;
     border: none;
     color: #7c7b7bbb;
-    
+
   
 }
 
