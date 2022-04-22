@@ -52,12 +52,14 @@ button{
     border-radius: 10px;
     border: none;
     color: #7c7b7bbb;
+    
   
 }
 
 button:hover{
     color: black;
     transition: 0.3s;
+
 }
 
 
