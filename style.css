@@ -11,11 +11,11 @@ background-size: cover;
     padding: 20px;
     border-radius: 20px;
     padding-bottom: 200px;
-   
+
 }
 
+
 h1{
-    
     border: solid;
     color: white;
     margin-top: 0;
@@ -37,7 +37,7 @@ input{
     border: none;
     background-color: #ffffffbb;
     outline:none;
-    
+
  
 }
 
