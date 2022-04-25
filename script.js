@@ -26,6 +26,7 @@ function calcular(){
 
 
     let qdtTotalCarne = 400 * adultos + (400 /2 * criancas);
+    
     console.log(qdtTotalCarne);
 
 }
