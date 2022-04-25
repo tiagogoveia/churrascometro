@@ -11,6 +11,7 @@
 
 let inputAdultos = document.getElementById("Adultos");
 let inputCriancas = document.getElementById("Crianças");
+
 let inputDuracao = document.getElementById("Adultos");
 
 let resultado = document.getElementById("resultado");
@@ -26,7 +27,7 @@ function calcular(){
 
 
     let qdtTotalCarne = 400 * adultos + (400 /2 * criancas);
-    
+
     console.log(qdtTotalCarne);
 
 }
