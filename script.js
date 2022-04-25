@@ -21,6 +21,7 @@ function calcular(){
 
     let adultos = inputAdultos.value;
     let criancas = inputCriancas.Value;
+    
 
     let qdtTotalCarne = 400 * adultos + (400 /2 * criancas);
     console.log(qdtTotalCarne);
