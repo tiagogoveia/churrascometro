@@ -10,11 +10,8 @@
 
 
 let inputAdultos = document.getElementById("Adultos");
-
 let inputCriancas = document.getElementById("Crianças");
-
 let inputDuracao = document.getElementById("Adultos");
-
 let resultado = document.getElementById("resultado");
 
 
