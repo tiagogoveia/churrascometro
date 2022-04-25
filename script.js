@@ -16,12 +16,13 @@ let inputDuracao = document.getElementById("Adultos");
 let resultado = document.getElementById("resultado");
 
 function calcular(){
+    
      
     console.log("calculando...");
 
     let adultos = inputAdultos.value;
     let criancas = inputCriancas.Value;
-    
+
 
     let qdtTotalCarne = 400 * adultos + (400 /2 * criancas);
     console.log(qdtTotalCarne);
