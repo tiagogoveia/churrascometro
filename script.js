@@ -15,8 +15,9 @@ let inputDuracao = document.getElementById("Adultos");
 
 let resultado = document.getElementById("resultado");
 
+
 function calcular(){
-    
+
      
     console.log("calculando...");
 
