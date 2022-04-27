@@ -2,6 +2,13 @@ body{
 background-image:url(.//image/calcular-carne-para-churrasco-2.jpg) ;
 background-repeat: no-repeat;
 background-size: cover;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: xx-large;
+text-align: center;
+
+
+
 
 }
 
@@ -11,6 +18,7 @@ background-size: cover;
     padding: 20px;
     border-radius: 20px;
     padding-bottom: 200px;
+    font-size: large;
 
 }
 
@@ -48,12 +56,13 @@ button{
     background-color: #ffffffbb;
     padding: 10px;
     margin-top: 20px;
+    margin-bottom: 50px;
     font-size: large;
-    margin-left: 40%;
     font-weight: bold ;
     border-radius: 10px;
     border: none;
     color: #7c7b7bbb;
+
 
 
 }
@@ -61,6 +70,7 @@ button{
 button:hover{
     color: black;
     transition: 0.3s;
+    font-weight: bold ;
 
 }
 
