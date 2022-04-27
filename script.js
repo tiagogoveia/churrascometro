@@ -38,11 +38,10 @@ function carnePP(duracao){
 
      if (duracao >= 6){
          return 650;
-        
+
      }else {
          return 400;
-    
-        }
+     }
 }
 
 function cervejaPP(duracao){
