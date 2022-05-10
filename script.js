@@ -6,6 +6,7 @@
 //crianças vale por 0,5.
 
 
+
  let inputAdultos = document.getElementById("Adultos");
  let inputCriancas = document.getElementById("Criancas");
  let inputDuracao = document.getElementById("Duracao");
