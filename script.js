@@ -35,7 +35,7 @@ function calcular(){
 
 }
 
-function carnePP(duracao){
+   function carnePP(duracao){
 
      if (duracao >= 6){
          return 650;
@@ -45,7 +45,7 @@ function carnePP(duracao){
      }
 }
 
-function cervejaPP(duracao){
+   function cervejaPP(duracao){
 
     if (duracao >= 6){
          return 2000;
@@ -56,12 +56,12 @@ function cervejaPP(duracao){
 
 }
 
-function bebidasPP(duracao){
+   function bebidasPP(duracao){
 
-    if (duracao >= 6){
+      if (duracao >= 6){
         return 1500;
         
-    }else {
+      }else {
         return 1000;
     }
 
